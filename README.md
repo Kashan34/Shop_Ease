@@ -87,22 +87,24 @@ lib/
 ├── services/       # Business logic
 └── main.dart       # App entry point
 ```
+## 📱 App Screenshots
 
-## Contributing
+### 🛒 Cart Screen
+![Cart Screen](images/cart.jpeg)
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### 🏠 Home Screen
+![Home Screen](images/home.jpeg)
 
-## License
+### ℹ️ Info Screen
+![Info Screen](images/info.jpeg)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### 🔐 Login Screen
+![Login Screen](images/login.jpeg)
 
-## Acknowledgments
+### 💳 Payment Screen
+![Payment Screen](images/payment.jpeg)
 
-- [Flutter](https://flutter.dev)
-- [Firebase](https://firebase.google.com)
-- [Supabase](https://supabase.io)
-- [Picsum Photos](https://picsum.photos) for placeholder images
+### 📝 Register Screen
+![Register Screen](images/register.jpeg)
+
+

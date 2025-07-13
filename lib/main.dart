@@ -16,18 +16,18 @@ void main() async {
   try {
     // Initialize Supabase
     await Supabase.initialize(
-      url: '',
-      anonKey: '',
+      url: '   ',
+      anonKey: '      ',
     );
-
+    print('Supabase initialized successfully');
     // Initialize Firebase
     print('Starting Firebase initialization...');
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "",
-        appId: "",
-        messagingSenderId: "",
-        projectId: "",
+        apiKey: "blah blah",
+        appId: "    ",
+        messagingSenderId: "     ",
+        projectId: "     ",
       ),
     );
     print('Firebase initialized successfully');
